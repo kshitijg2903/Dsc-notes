@@ -80,6 +80,6 @@ make clean && make
 
 * Threaded implementation: **server\_threads.c**
 * Event‑based implementation: **server\_events.c**
-* Design document: **Design.pdf** or **design.md** (this document)
+* Design document: **Design.pdf** (this document)
 
 
